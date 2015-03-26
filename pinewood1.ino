@@ -223,7 +223,7 @@ void doCycle(int timeDel){
   for (i = 0; i < numLights; i++) {
     //Loop through all of the pins and turn the light on
     digitalWrite(i, HIGH);
-    //Then wait for 1 second (1,000 miliseconds)
+    //Then wait for timeDel miliseconds
     delay(timeDel);
     //Then turn the light off
     digitalWrite(i, LOW);
@@ -239,7 +239,7 @@ void doDoubleCycle(int timeDel){
   for (i = 0; i < numLights; i++) {
     //Loop through all of the pins and turn the light on
     digitalWrite(i, HIGH);
-    //Then wait for 1 second (1,000 miliseconds)
+    //Then wait for timeDel miliseconds
     delay(timeDel);
     //Then turn the light off
     digitalWrite(i, LOW);
@@ -247,7 +247,7 @@ void doDoubleCycle(int timeDel){
   for (i = numLights; i >0; i--) {
     //Loop through all of the pins and turn the light on
     digitalWrite(i, HIGH);
-    //Then wait for 1 second (1,000 miliseconds)
+    //Then wait for timeDel miliseconds
     delay(timeDel);
     //Then turn the light off
     digitalWrite(i, LOW);
