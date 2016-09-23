@@ -1,6 +1,6 @@
 Arduino Pinewood Derby
 ======================
-This repository contains the source code for the Arduino Powered Pinewood Derby project published by [Make Magazine](http://makezine.com/projects/arduino-powered-pinewood-derby-race-car/). I also published an updated version of this article on [johnwargo.com](http://johnwargo.com/index.php/microcontrollers-single-board-computers/arduino-powered-pinewood-derby-car.html). You can also find a PDF version of the article at [johnwargo.com](http://www.johnwargo.com/index.php/microcontrollers-single-board-computers/arduino-powered-pinewood-derby-car.html).
+This repository contains the source code for the Arduino Powered Pinewood Derby project published by [Make Magazine](http://makezine.com/projects/arduino-powered-pinewood-derby-race-car/). I also published an updated version of the article on [johnwargo.com](http://johnwargo.com/index.php/microcontrollers-single-board-computers/arduino-powered-pinewood-derby-car.html), and you can find a PDF version of the article at [johnwargo.com](http://www.johnwargo.com/index.php/microcontrollers-single-board-computers/arduino-powered-pinewood-derby-car.html).
 
 My son is in Cub Scouts and for years we've been building Boy Scouts of America [Pinewood Derby](www.pinewoodderby.org) cars with the rest of the pack. I've always invited my son's Den into my workshop so the other scouts and their Dads can make use of my tools to build their cars. The Boy Scouts has a policy against Cub Scouts using power tools, but with the right guidance we've gotten along.
 
