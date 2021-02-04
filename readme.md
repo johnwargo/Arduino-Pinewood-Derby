@@ -10,5 +10,8 @@ After watching one particular parent last year spend two hours or more in the sh
 
 For our first iteration of this, we configured the car so that when it sits in the pits, it will flash the lights in a certain pattern. When the car is at the starting gate, and when it's on the angled portion of the track, the light pattern changes and becomes much more active. Knowing that the car may jump off the track, we also added special added patterns for when the car is sitting on its left or right side. Since everything is done in code, it's super easy to completely change the light patterns and orientation settings in the software. You and your son can spend hours trying out different patterns to get the right, and potentially unique, ones for your car.
 
-* * *
-By [John M. Wargo](http://www.johnwargo.com) - if you like and/or use this module, why not pick up [one of my books](http://www.johnwargobooks.com)?
+***
+
+You can find information on many different topics on my [personal blog](http://www.johnwargo.com). Learn about all of my publications at [John Wargo Books](http://www.johnwargobooks.com).
+
+If you find this code useful and feel like thanking me for providing it, please consider <a href="https://www.buymeacoffee.com/johnwargo" target="_blank">Buying Me a Coffee</a>, or making a purchase from [my Amazon Wish List](https://amzn.com/w/1WI6AAUKPT5P9).
